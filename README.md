@@ -2,6 +2,9 @@
 
 C# Fluent API for interacting with [Mock-Server](http://www.mock-server.com/) targetting .netstandard2.0.
 
+
+# Mock
+dotnet 
 # Build
 
     dotnet build
